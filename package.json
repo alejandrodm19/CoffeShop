@@ -1,0 +1,14 @@
+{
+  "name": "coffeshop",
+  "version": "1.0.0",
+  "description": "SASS, Gulp and CSS Grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Malvacias",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
